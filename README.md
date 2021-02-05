@@ -24,6 +24,8 @@
 
 #### AB testing
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)
+- `article` [Three Key Checklists and Remedies for Trustworthy Analysis of Online Controlled Experiments at Scale](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/2019-FabijanDmitrievOlssonBoschVermeerLewis_Three-Key-Checklists_ICSE_SEIP.pdf)
+- `article`[Top Challenges from the first Practical Online Controlled Experiments Summit](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
 
 #### Multi-Armed Bandits (MAB)
 - `paper` [Best arm identification in multi-armed bandits with delayed feedback](https://arxiv.org/pdf/1803.10937.pdf)

@@ -86,6 +86,8 @@ Non-exhaustive list of additional topics to add:
 - `article` [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 - `article` [A/B Testing: 29 Guidelines for Online Experiments (Plus a Checklist)](https://www.alexbirkett.com/ab-testing/#27)
 - `course` [Udacity - A/B testing by Google](https://www.udacity.com/course/ab-testing--ud257)
+- `article` [Evan Miller - Simple Sequential A/B testing](https://www.evanmiller.org/sequential-ab-testing.html)
+- `article` [David Robinson - Understanding Bayesian A/B testing](http://varianceexplained.org/r/bayesian_ab_baseball/)
 
 ### Multi-Armed Bandits (MAB)
 - `paper` [Best arm identification in multi-armed bandits with delayed feedback](https://arxiv.org/pdf/1803.10937.pdf)

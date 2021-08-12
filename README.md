@@ -77,6 +77,10 @@ Non-exhaustive list of additional topics to add:
 - `course` [Coursera - deeplearning.ai Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_content=NLP_6/17_ppt#courses)
 - `course` [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
+- `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
+- `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
+- `article` [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar
+- `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 
 ### AB testing
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)

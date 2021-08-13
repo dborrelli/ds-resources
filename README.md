@@ -45,7 +45,7 @@ Non-exhaustive list of additional topics to add:
 ### General ML
 - `course` [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) foundational knowledge of machine learning
 - `course` [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) more immediately applicable than the previous course
-- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and it's associated [github repo](https://github.com/ageron/handson-ml2)
+- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and its associated [github repo](https://github.com/ageron/handson-ml2)
 - `book` [The Hundred Page Machine Learning book](http://themlbook.com/wiki/doku.php)
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - `course` [MIT Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)

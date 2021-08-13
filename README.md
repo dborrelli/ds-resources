@@ -1,7 +1,7 @@
 # Data Science Resources
 This list started out as a way for me to keep track of data science resources I've found helpful. However, I frequently get asked for resource recommendations by junior data scientists and friends looking to break into data science. Where possible, I've included links to the (legitimate) free versions of books. One of the great things about the data science community is the willingness to open-source and make things available for free. Within each category the resources are listed very loosely in order of usefulness/introductory level to more advanced (but not entirely).
 
-This list is still far from complete, but I'll try to continue to add to it. Hopefully you find it helpful.
+This list is far from complete, but I'll try to continue to add to it. Hopefully you find it helpful.
 
 Non-exhaustive list of additional topics to add:
  - Spark
@@ -45,7 +45,7 @@ Non-exhaustive list of additional topics to add:
 ### General ML
 - `course` [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) foundational knowledge of machine learning
 - `course` [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) more immediately applicable than the previous course
-- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk)
+- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and it's associated [github repo](https://github.com/ageron/handson-ml2)
 - `book` [The Hundred Page Machine Learning book](http://themlbook.com/wiki/doku.php)
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - `course` [MIT Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
@@ -123,6 +123,17 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Talking Machines](http://www.thetalkingmachines.com/)
+
+### Datasets
+#### General
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Google Dataset search](https://datasetsearch.research.google.com/)
+- [Registry of Open Data on AWS](https://registry.opendata.aws/)
+
+#### NLP
+- [huggingface datasets](https://github.com/huggingface/datasets)
+- [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
+
 
 ### Domain applications
 #### Rewewable Energy

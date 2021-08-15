@@ -73,6 +73,10 @@ Non-exhaustive list of additional topics to add:
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
+#### Reinforcement Learning
+- `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
+- `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
+
 ### NLP
 - `course` [Coursera - deeplearning.ai Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_content=NLP_6/17_ppt#courses)
 - `course` [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
@@ -81,6 +85,9 @@ Non-exhaustive list of additional topics to add:
 - `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
 - `article` [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar
 - `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
+- `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
+- `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
+- `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
 
 ### AB testing
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)

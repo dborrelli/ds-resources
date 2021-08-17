@@ -1,5 +1,5 @@
 # Data Science Resources
-This list started out as a way for me to keep track of data science resources I've found helpful. However, I frequently get asked for resource recommendations by junior data scientists and friends looking to break into data science. Where possible, I've included links to the (legitimate) free versions of books. One of the great things about the data science community is the willingness to open-source and make things available for free. Within each category the resources are listed very loosely in order of usefulness/introductory level to more advanced (but not entirely).
+This list started out as a way for me to keep track of data science resources I've found helpful. However, I frequently get asked for resource recommendations by other data scientists and friends looking to break into data science. Where possible, I've included links to the (legitimate) free versions of books. One of the great things about the data science community is the willingness to open-source and make things available for free. Within each category the resources are listed very loosely in order of usefulness/introductory level to more advanced (but not entirely).
 
 This list is far from complete, but I'll try to continue to add to it. Hopefully you find it helpful.
 
@@ -7,7 +7,6 @@ Non-exhaustive list of additional topics to add:
  - Spark
  - Git/GitHub
  - time series forecasting
- - MLops
  - docker
 
 <br><br>
@@ -55,12 +54,18 @@ Non-exhaustive list of additional topics to add:
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
+- `paper` [UMAP: Uniform Manifold
+Approximation and Projection for
+Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf)
 
 ### ML in production
 - `github repo` [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 - `course` [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - `article` [Overview of the different approaches to putting Machine Learning (ML) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 - `article` [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
+
+### MLOps
+- `github repo and tutorials` [Made With ML](https://madewithml.com/) by Goku Mohandas
 
 ### Deep Learning
 - `course` [Coursera - deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
@@ -80,6 +85,8 @@ Non-exhaustive list of additional topics to add:
 ### NLP
 - `course` [Coursera - deeplearning.ai Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_content=NLP_6/17_ppt#courses)
 - `course` [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
+- `course` [Advanced NLP with spaCy](https://course.spacy.io/en)
+- `course` [Hugging Face course](https://huggingface.co/course/chapter1)
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
 - `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
 - `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
@@ -87,6 +94,7 @@ Non-exhaustive list of additional topics to add:
 - `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 - `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
 - `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
+- `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
 - `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
 
 ### AB testing

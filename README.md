@@ -54,9 +54,16 @@ Non-exhaustive list of additional topics to add:
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
+
+#### Dimensionality reduction
 - `paper` [UMAP: Uniform Manifold
 Approximation and Projection for
-Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf)
+Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
+- `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
+- `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
+#### Clustering
+- `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
 
 ### ML in production
 - `github repo` [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)

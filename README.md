@@ -55,15 +55,13 @@ Non-exhaustive list of additional topics to add:
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
 
-#### Dimensionality reduction
-- `paper` [UMAP: Uniform Manifold
-Approximation and Projection for
-Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
-- `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
-- `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+    #### Dimensionality reduction
+    - `paper` [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
+    - `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
+    - `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
-#### Clustering
-- `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
+    #### Clustering
+    - `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
 
 ### ML in production
 - `github repo` [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
@@ -85,9 +83,9 @@ Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-#### Reinforcement Learning
-- `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
-- `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
+    #### Reinforcement Learning
+    - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
+    - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
 
 ### NLP
 - `course` [Coursera - deeplearning.ai Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_content=NLP_6/17_ppt#courses)
@@ -96,13 +94,20 @@ Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
 - `course` [Hugging Face course](https://huggingface.co/course/chapter1)
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
 - `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
+- `article` [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
 - `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
 - `article` [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar
 - `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
-- `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
-- `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
-- `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
-- `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
+- `book` [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) by
+
+    #### (A few) seminal papers
+    - `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
+    - `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
+    - `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
+    - `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
+    - `paper` transformers [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al, 2017
+    - `paper` [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) by Cer et al., 2018
+
 
 ### AB testing
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)
@@ -147,6 +152,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - [Talking Machines](http://www.thetalkingmachines.com/)
 
 ### Datasets
+
 #### General
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Google Dataset search](https://datasetsearch.research.google.com/)
@@ -162,8 +168,8 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [ClimateChage AI](https://www.climatechange.ai/)
 
-#### Healthcare
-- `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+    #### Healthcare
+    - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
 ### Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen

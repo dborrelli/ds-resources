@@ -13,7 +13,7 @@ Non-exhaustive list of additional topics to add:
 
 ## Technical Resources
 
-### Python
+### 1. Python
 - `course` [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - `book` [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 - `book` [Python for Everybody](https://www.py4e.com/book.php)
@@ -22,17 +22,7 @@ Non-exhaustive list of additional topics to add:
 - `video series` [Calm Code](https://calmcode.io/)
 - [Google Python style guide](https://google.github.io/styleguide/pyguide.html)
 
-### CS and algorithms
-- `course` [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms#courses)
-- `book` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- [HackerRank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-
-
-### SQL
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-- [Mode SQL tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
-
-### Statistics
+### 2. Statistics
 - `course` [Khan Academy - Statistics](https://www.khanacademy.org/math/ap-statistics)
 - [Stanford Experimental Design course](https://statweb.stanford.edu/~owen/courses/363/) and [course notes](https://statweb.stanford.edu/~owen/courses/363/doenotes.pdf)
 - `course` [Coursera - Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
@@ -41,7 +31,8 @@ Non-exhaustive list of additional topics to add:
 - `book` [Think Bayes](http://allendowney.github.io/ThinkBayes2/index.html)
 - `book` [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
-### General ML
+### 3. General ML
+#### 3.1 Multiple ML topics
 - `course` [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) foundational knowledge of machine learning
 - `course` [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) more immediately applicable than the previous course
 - `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and its associated [github repo](https://github.com/ageron/handson-ml2)
@@ -49,30 +40,37 @@ Non-exhaustive list of additional topics to add:
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - `course` [MIT Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 - `course` Cornell CS 4780 Machine Learning [lecture notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) and [lecture youtube videos](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
-- `article` [Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
 - `book` [Mining of Massive Datasets](http://www.mmds.org/) and `course` [edX/Stanford - Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
 
-    #### Dimensionality reduction
-    - `paper` [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
-    - `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
-    - `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+#### 3.2 Dimensionality reduction
+- `paper` [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
+- `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
+- `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
-    #### Clustering
-    - `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
+#### 3.3 Clustering
+- `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
 
-### ML in production
+#### 3.4 Curse of dimensionality
+- `paper` [On the Surprising Behavior of Distance Metrics
+in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarwal et al., 2001
+- `blog` [Escaping the Curse of Dimensionality](https://www.freecodecamp.org/news/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335/) by Peter Gleeson (FreeCodeCamp)
+
+#### 3.5 Data issues
+- `article` [Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
+
+### 4. ML in production
 - `github repo` [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 - `course` [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 - `article` [Overview of the different approaches to putting Machine Learning (ML) models in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 - `article` [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
 
-### MLOps
+### 5. MLOps
 - `github repo and tutorials` [Made With ML](https://madewithml.com/) by Goku Mohandas
 
-### Deep Learning
+### 6. Deep Learning
 - `course` [Coursera - deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - `course` [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - `book` [Deep Learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
@@ -83,11 +81,11 @@ Non-exhaustive list of additional topics to add:
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-    #### Reinforcement Learning
-    - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
-    - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
+#### Reinforcement Learning
+- `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
+- `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
 
-### NLP
+### 7. NLP
 - `course` [Coursera - deeplearning.ai Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearningai&utm_medium=institutions&utm_content=NLP_6/17_ppt#courses)
 - `course` [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - `course` [Advanced NLP with spaCy](https://course.spacy.io/en)
@@ -100,16 +98,24 @@ Non-exhaustive list of additional topics to add:
 - `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 - `book` [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) by
 
-    #### (A few) seminal papers
-    - `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
-    - `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
-    - `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
-    - `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
-    - `paper` transformers [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al, 2017
-    - `paper` [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) by Cer et al., 2018
+#### (A few) seminal papers
+- `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
+- `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
+- `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
+- `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
+- `paper` transformers [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al, 2017
+- `paper` [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) by Cer et al., 2018
 
+### 8. CS and algorithms
+- `course` [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms#courses)
+- `book` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [HackerRank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-### AB testing
+### 9. SQL
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [Mode SQL tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
+
+### 10. AB testing
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)
 - `paper` [Three Key Checklists and Remedies for Trustworthy Analysis of Online Controlled Experiments at Scale](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/2019-FabijanDmitrievOlssonBoschVermeerLewis_Three-Key-Checklists_ICSE_SEIP.pdf)
 - `paper`[Top Challenges from the first Practical Online Controlled Experiments Summit](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
@@ -120,7 +126,7 @@ Non-exhaustive list of additional topics to add:
 - `article` [Evan Miller - Simple Sequential A/B testing](https://www.evanmiller.org/sequential-ab-testing.html)
 - `article` [David Robinson - Understanding Bayesian A/B testing](http://varianceexplained.org/r/bayesian_ab_baseball/)
 
-### Multi-Armed Bandits (MAB)
+### 11. Multi-Armed Bandits (MAB)
 - `paper` [Best arm identification in multi-armed bandits with delayed feedback](https://arxiv.org/pdf/1803.10937.pdf)
 - `paper` [Generalized Thompson Sampling for
 Contextual Bandits](https://arxiv.org/pdf/1310.7163.pdf)
@@ -128,50 +134,50 @@ Contextual Bandits](https://arxiv.org/pdf/1310.7163.pdf)
 - `paper` [A Contextual-Bandit Approach to
 Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
-### Building web apps
+### 12. Building web apps
 - [Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Ginberg
 
-### AWS
+### 13. AWS
 - `course` [Coursera - Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
 - `course` [Coursera - AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials#syllabus)
 - `course` [Coursera - Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
 - [AWS Ramp up guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
 
-### Company tech blogs
+### 14. Company tech blogs
 - [AirBnb]()
 - [Coursera]()
 - [Stitch Fix]()
 - `Square` [Product Analytics at Square](https://developer.squareup.com/blog/product-analytics-at-square/)
 
-### Newsletters
+### 15. Newsletters
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 
-### Podcasts
+### 16. Podcasts
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Talking Machines](http://www.thetalkingmachines.com/)
 
-### Datasets
+### 17. Datasets
 
-#### General
+#### 17.1 General
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Google Dataset search](https://datasetsearch.research.google.com/)
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
-#### NLP
+#### 17.2 NLP
 - [huggingface datasets](https://github.com/huggingface/datasets)
 - [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
 
 
-### Domain applications
-#### Rewewable Energy
+### 18. Domain applications
+#### 18.1 Rewewable Energy
 - `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [ClimateChage AI](https://www.climatechange.ai/)
 
-    #### Healthcare
-    - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+#### 18.2 Healthcare
+- `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
-### Interviewing
+### 19. Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
 
 

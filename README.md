@@ -39,6 +39,7 @@ Non-exhaustive list of additional topics to add:
 - `book` [The Hundred Page Machine Learning book](http://themlbook.com/wiki/doku.php)
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - `course` [MIT Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+- `course` [Harvard CS 109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 - `course` Cornell CS 4780 Machine Learning [lecture notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) and [lecture youtube videos](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - `book` [Mining of Massive Datasets](http://www.mmds.org/) and `course` [edX/Stanford - Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
@@ -71,17 +72,24 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `github repo and tutorials` [Made With ML](https://madewithml.com/) by Goku Mohandas
 
 ### 6. Deep Learning
+#### 6.1 General DL
 - `course` [Coursera - deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - `course` [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- `book` [Deep Learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 - `course` [Yann LeCun's NYU course - DS-GA 1008 · SPRING 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 - `course` [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
 - `course` [Stanford CS230 - Deep Learning](https://cs230.stanford.edu/)
 - `course` [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
+- `site` [Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59180&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- `paper` [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) by Lesli Smith
+
+#### 6.2 TensorFlow
+- `book` [Deep Learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+
+#### 6.3 PyTorch
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-#### Reinforcement Learning
+#### 6.4 Reinforcement Learning
 - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
 - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
 

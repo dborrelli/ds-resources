@@ -80,16 +80,20 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `course` [Stanford CS230 - Deep Learning](https://cs230.stanford.edu/)
 - `course` [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
 - `site` [Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59180&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-- `paper` [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) by Lesli Smith
 
-#### 6.2 TensorFlow
+#### 6.2 DL papers
+- `github repo` [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- `paper` [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) by He et al, 2015
+- `paper` [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) by Smith, 2018
+
+#### 6.3 TensorFlow
 - `book` [Deep Learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-#### 6.3 PyTorch
+#### 6.4 PyTorch
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-#### 6.4 Reinforcement Learning
+#### 6.5 Reinforcement Learning
 - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
 - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
 

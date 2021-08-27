@@ -83,6 +83,8 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 
 ### 4. MLOps
 - `github repo and tutorials` [Made With ML](https://madewithml.com/) by Goku Mohandas
+- `github repo` [Awesome ML Ops](https://github.com/visenger/awesome-mlops)
+- `article` [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 
 ### 5. Deep Learning
 #### 5.1 General DL

@@ -211,6 +211,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
 ### 17. Other resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
+- `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
 
 ## Non-technical resources
 ### Career advice

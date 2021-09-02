@@ -67,6 +67,8 @@ Non-exhaustive list of additional topics to add:
 
 #### 2.4 Clustering
 - `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
+- `stackoverflow` [How to select a clustering method? How to validate a cluster solution?](https://stats.stackexchange.com/a/195481)
+- `stackoverflow` [Evaluation measures of goodness or validity of clustering](https://stats.stackexchange.com/a/358937)
 
 #### 2.5 Curse of dimensionality
 - `paper` [On the Surprising Behavior of Distance Metrics
@@ -119,6 +121,7 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `course` [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - `course` [Advanced NLP with spaCy](https://course.spacy.io/en)
 - `course` [Hugging Face course](https://huggingface.co/course/chapter1)
+- `book` [Natural Language Processing with Python](https://www.nltk.org/book/) by Bird, Klein and Loper
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
 - `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
 - `article` [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
@@ -213,6 +216,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 ### 17. Other resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
 - `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
+- `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Non-technical resources
 ### Career advice

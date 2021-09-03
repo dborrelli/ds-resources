@@ -199,6 +199,10 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - [huggingface datasets](https://github.com/huggingface/datasets)
 - [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
 
+#### 13.3 Time series
+- [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+- [Time Series Classification Repository](http://www.timeseriesclassification.com/index.php)
+
 
 ### 14. Domain applications
 #### 14.1 Rewewable Energy

@@ -69,6 +69,8 @@ Non-exhaustive list of additional topics to add:
 - `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
 - `stackoverflow` [How to select a clustering method? How to validate a cluster solution?](https://stats.stackexchange.com/a/195481)
 - `stackoverflow` [Evaluation measures of goodness or validity of clustering](https://stats.stackexchange.com/a/358937)
+- `paper` [What are the true clusters?](https://arxiv.org/abs/1502.02555) by Christian Henning
+- `paper` [Density-Based Clustering Validation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.96) by Moulavi et al, 2014
 
 #### 2.5 Curse of dimensionality
 - `paper` [On the Surprising Behavior of Distance Metrics
@@ -174,50 +176,57 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `course` [Coursera - Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
 - [AWS Ramp up guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
 
-### 10. Company tech blogs
+### 10. Helpful other tools and packages
+#### 10.1 Hyperopt
+- `article` [Parameter Tuning with Hyperopt](https://medium.com/district-data-labs/parameter-tuning-with-hyperopt-faa86acdfdce) by District Data Labs
+- `article` [On Using Hyperopt: Advanced Machine Learning](https://blog.goodaudience.com/on-using-hyperopt-advanced-machine-learning-a2dde2ccece7) by Tanay Agrawal
+- `article` [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0) by Will Koehrsen
+
+
+### 11. Company tech blogs
 - [AirBnb]()
 - [Coursera]()
 - [Stitch Fix]()
 - `Square` [Product Analytics at Square](https://developer.squareup.com/blog/product-analytics-at-square/)
 
-### 11. Newsletters
+### 12. Newsletters
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 
-### 12. Podcasts
+### 13. Podcasts
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Talking Machines](http://www.thetalkingmachines.com/)
 
-### 13. Datasets
+### 14. Datasets
 
-#### 13.1 General
+#### 14.1 General
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Google Dataset search](https://datasetsearch.research.google.com/)
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
-#### 13.2 NLP
+#### 14.2 NLP
 - [huggingface datasets](https://github.com/huggingface/datasets)
 - [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
 
-#### 13.3 Time series
+#### 14.3 Time series
 - [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 - [Time Series Classification Repository](http://www.timeseriesclassification.com/index.php)
 
 
-### 14. Domain applications
-#### 14.1 Rewewable Energy
+### 15. Domain applications
+#### 15.1 Rewewable Energy
 - `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [ClimateChage AI](https://www.climatechange.ai/)
 
-#### 14.2 Healthcare
+#### 15.2 Healthcare
 - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
-### 15. Ethics
+### 16. Ethics
 
-### 16. Interviewing
+### 17. Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
 
-### 17. Other resource lists
+### 18. Other resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
 - `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
 - `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)

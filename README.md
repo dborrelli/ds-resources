@@ -95,25 +95,28 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 #### 5.1 General DL
 - `course` [Coursera - deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - `course` [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- `course` [Yann LeCun's NYU course - DS-GA 1008 · SPRING 2020](https://atcold.github.io/pytorch-Deep-Learning/)
-- `course` [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
-- `course` [Stanford CS230 - Deep Learning](https://cs230.stanford.edu/)
-- `course` [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
 - `site` [Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59180&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
-#### 5.2 DL papers
+#### 5.2 University DL courses
+- `github repo` [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) giant list of university DL courses
+- `course` [Stanford CS230 - Deep Learning](https://cs230.stanford.edu/)
+- `course` [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
+- `course` [Yann LeCun's NYU course - DS-GA 1008 · SPRING 2020](https://atcold.github.io/pytorch-Deep-Learning/)
+- `course` [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
+
+#### 5.3 DL papers
 - `github repo` [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - `paper` [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) by He et al, 2015
 - `paper` [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) by Smith, 2018
 
-#### 5.3 TensorFlow
+#### 5.4 TensorFlow
 - `book` [Deep Learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 - `course` [Coursera Deeplearning.AI Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-#### 5.4 PyTorch
+#### 5.5 PyTorch
 - `book` [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
-#### 5.5 Reinforcement Learning
+#### 5.6 Reinforcement Learning
 - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
 - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
 

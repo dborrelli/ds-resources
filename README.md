@@ -55,7 +55,7 @@ Non-exhaustive list of additional topics to add:
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
 
-#### 2.2 University classes
+#### 2.2 University ML courses
 - `course` - `Harvard` [CS 109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 - `course` - `Cornell` CS 4780 Machine Learning [lecture notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) and [lecture youtube videos](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - `course` - `MIT` [Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
@@ -70,6 +70,7 @@ Non-exhaustive list of additional topics to add:
 - `stackoverflow` [How to select a clustering method? How to validate a cluster solution?](https://stats.stackexchange.com/a/195481)
 - `stackoverflow` [Evaluation measures of goodness or validity of clustering](https://stats.stackexchange.com/a/358937)
 - `paper` [What are the true clusters?](https://arxiv.org/abs/1502.02555) by Christian Henning
+- `paper` [Accelerated Hierarchical Density Clustering](https://arxiv.org/pdf/1705.07321.pdf) by McInnes and Healy, 2017
 - `paper` [Density-Based Clustering Validation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.96) by Moulavi et al, 2014
 
 #### 2.5 Curse of dimensionality
@@ -226,15 +227,12 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
 ### 16. Ethics
 
-### 17. Interviewing
-- `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
-
-### 18. Other resource lists
+### 17. Other resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
 - `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
 - `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-## Non-technical resources
+## Career resources
 ### Career advice
 - `book` [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) by Emily Robinson and Jacqueline Nolis
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
@@ -246,7 +244,8 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 - `github` [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
-
+### Interviewing
+- `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
 
 ### Team structure
 - `article` [Models for integrating data science teams within organizations](https://medium.com/@djpardis/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
@@ -255,11 +254,15 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` - `Coursera` [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - `article` - `AirBnB` [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
 
-
+## Non-technical resources
 ### Agile & Project management
 - `article` [How to manage Machine Learning and Data Science projects](https://towardsdatascience.com/how-to-manage-machine-learning-and-data-science-projects-eecacfc8a7f1)
 - `article` [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/) and [Data Science and Agile (Frameworks for effectiveness)](https://eugeneyan.com/writing/data-science-and-agile-frameworks-for-effectiveness/)
 
-### Data Products
+
+### Product
 - `article` [Jobs To Be Done Framework](https://medium.com/make-us-proud/jobs-to-be-done-framework-748c761797a8)
 - `article series` - `Sequoia` [Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
+
+### Business
+- `article` [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/blog/10-reads-for-data-scientists-getting-started-with-business-models/) by Conor Dewey

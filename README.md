@@ -237,6 +237,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `book` [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) by Emily Robinson and Jacqueline Nolis
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
 - `article` [Finding Answers to your Career Questions](https://hookedondata.org/career-resources/)
+- `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
 
 
 ### Becoming a data scientist
@@ -244,12 +245,15 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 - `github` [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
+### Generalist vs specialist 
+- `article` [Unpopular Opinion - Data Scientists Should be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/) by Eugene Yan
+- `article` - `Stitch Fix` [Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) by Eric Colson
+
 ### Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
 
 ### Team structure
 - `article` [Models for integrating data science teams within organizations](https://medium.com/@djpardis/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
-- `article` - `Stitch Fix` [Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 - `article` - `Coursera` [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8)
 - `article` - `Coursera` [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - `article` - `AirBnB` [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)

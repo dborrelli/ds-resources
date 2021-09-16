@@ -62,6 +62,8 @@ Non-exhaustive list of additional topics to add:
 
 #### 2.3 Dimensionality reduction
 - `paper` [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
+- `blog` [Understanding UMAP](https://pair-code.github.io/understanding-umap/) by Andy Coenen and Adam Pearce
+- `article` [How Exactly UMAP Works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668)
 - `paper` [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) by van der Maaten and Hinton
 - `blog` [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 

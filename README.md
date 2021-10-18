@@ -173,6 +173,8 @@ Contextual Bandits](https://arxiv.org/pdf/1310.7163.pdf)
 - `paper` [A Contextual-Bandit Approach to
 Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
+
+
 ### 8. Building web apps
 - [Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Ginberg
 
@@ -182,8 +184,27 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `course` [Coursera - Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
 - [AWS Ramp up guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
 
-### 10. Helpful other tools and packages
-#### 10.1 Hyperopt
+### 10. Coding best practies
+#### 10.1 Structuring projects
+- `article` [Structuring Your Project: The Hitchhiker's Guide to Python](https://python-docs.readthedocs.io/en/latest/writing/structure.html)
+- `github` [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
+- `tutorial` [Production Data Science](https://github.com/FilippoBovo/production-data-science)
+
+#### 10.2 Unit testing
+- `article` [Effective Python Testing With Pytest
+](https://realpython.com/pytest-python-testing/) Real Python
+- `article` [Becoming a Better Data Scientist: Testing with pytest](https://changhsinlee.com/pytest-intro/) by Chang Hsin Lee
+- `article` [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
+
+#### 10.3 Creating PyPI packages
+- `tutorial` [PyPA Packaging Python projects tutorial](https://packaging.python.org/tutorials/packaging-projects/#python-requires)
+- `e-book` [Python Packages e-book](https://py-pkgs.org/)
+- `e-book` [The Joy of Packaging](https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html)
+- [poetry](https://python-poetry.org/)
+
+
+### 11. Helpful other tools and packages
+#### 11.1 Hyperopt
 - `article` [Parameter Tuning with Hyperopt](https://medium.com/district-data-labs/parameter-tuning-with-hyperopt-faa86acdfdce) by District Data Labs
 - `article` [On Using Hyperopt: Advanced Machine Learning](https://blog.goodaudience.com/on-using-hyperopt-advanced-machine-learning-a2dde2ccece7) by Tanay Agrawal
 - `article` [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0) by Will Koehrsen

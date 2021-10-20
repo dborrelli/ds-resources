@@ -218,59 +218,57 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0) by Will Koehrsen
 
 
-### 11. Company tech blogs
+### 12. Datasets
+#### 12.1 General
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Google Dataset search](https://datasetsearch.research.google.com/)
+- [Registry of Open Data on AWS](https://registry.opendata.aws/)
+
+#### 12.2 NLP
+- [huggingface datasets](https://github.com/huggingface/datasets)
+- [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
+
+#### 12.3 Time series
+- [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+- [Time Series Classification Repository](http://www.timeseriesclassification.com/index.php)
+
+
+### 13. Domain applications
+#### 13.1 Rewewable Energy
+- `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
+- [ClimateChage AI](https://www.climatechange.ai/)
+
+#### 13.2 Healthcare
+- `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+
+### 14. Ethics
+- `github repo` [EthicalML Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
+
+### 15. Other learning resource lists
+- `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
+- `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
+- `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+### 16. Industry resources and trends
+#### 16.1 Company tech blogs
 - [AirBnb]()
 - [Coursera]()
 - [Stitch Fix]()
 - `Square` [Product Analytics at Square](https://developer.squareup.com/blog/product-analytics-at-square/)
 
-### 12. Newsletters
+#### 16.2 Newsletters
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 
-### 13. Podcasts
+#### 16.3 Podcasts
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Talking Machines](http://www.thetalkingmachines.com/)
-
-### 14. Datasets
-
-#### 14.1 General
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Google Dataset search](https://datasetsearch.research.google.com/)
-- [Registry of Open Data on AWS](https://registry.opendata.aws/)
-
-#### 14.2 NLP
-- [huggingface datasets](https://github.com/huggingface/datasets)
-- [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
-
-#### 14.3 Time series
-- [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
-- [Time Series Classification Repository](http://www.timeseriesclassification.com/index.php)
-
-
-### 15. Domain applications
-#### 15.1 Rewewable Energy
-- `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
-- [ClimateChage AI](https://www.climatechange.ai/)
-
-#### 15.2 Healthcare
-- `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
-
-### 16. Ethics
-- `github repo` [EthicalML Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
-
-### 17. Other resource lists
-- `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
-- `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
-- `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Career resources
 ### Career advice
 - `book` [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) by Emily Robinson and Jacqueline Nolis
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
-- `article` [Finding Answers to your Career Questions](https://hookedondata.org/career-resources/)
 - `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
-- `blog post` [Senior engineer and then what?](http://www.juyang.co/senior-engineer-and-then-what/) by Ju Yang
 - `Quora` [As a data scientist, what career advice changed your life?](https://www.quora.com/As-a-data-scientist-what-career-advice-changed-your-life)
 
 ### Defining data science
@@ -285,14 +283,20 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [Unpopular Opinion - Data Scientists Should be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/) by Eugene Yan
 - `article` - `Stitch Fix` [Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) by Eric Colson
 
-### Interviewing
-- `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
+### IC vs Management and career progression
+- `blog post` [Finding Answers to your Career Questions](https://hookedondata.org/career-resources/)
+- `blog post` [Engieering Management: The Pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) by Charity Majors
+- `blog post` [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors
+- `blog post` [Senior engineer and then what?](http://www.juyang.co/senior-engineer-and-then-what/) by Ju Yang
 
 ### Team structure
 - `article` [Models for integrating data science teams within organizations](https://medium.com/@djpardis/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
 - `article` - `Coursera` [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8)
 - `article` - `Coursera` [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - `article` - `AirBnB` [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
+
+### Interviewing
+- `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
 
 ## Non-technical resources
 ### Agile & Project management

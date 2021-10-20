@@ -1,5 +1,5 @@
 # Data Science Resources
-This list started out as a way for me to keep track of data science resources I've found helpful. However, I frequently get asked for data science resource recommendations by other data scientists and friends looking to break into data science. So I've continued to add to this, with a focus on beginner- or intermediate- level resources. Where possible, I've included links to the (legitimate) free versions of books. One of the great things about the data science community is the willingness to open-source and make things available for free. Within each category or sub-category the resources are listed very loosely in order of usefulness/introductory level to more advanced (but not entirely).
+This list started out as a way for me to keep track of data science resources I've found helpful. However, I frequently get asked for data science resource recommendations by other data scientists and friends looking to break into data science. So I've continued to add to this, with a focus on beginner- and intermediate-level resources. Where possible, I've included links to the (legitimate) free versions of books. One of the great things about the data science community is the willingness to open-source and make things available for free. Within each category or sub-category the resources are listed very loosely in order of usefulness/introductory level to more advanced (but not entirely).
 
 This list is far from complete, but I'll try to continue to add to it. Hopefully you find it helpful.
 
@@ -46,7 +46,6 @@ Non-exhaustive list of additional topics to add:
 #### 2.1 ML overview
 - `course` [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) foundational knowledge of machine learning
 - `course` [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) more immediately applicable than the previous course
-- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and its associated [github repo](https://github.com/ageron/handson-ml2)
 - `book` [An Introduction to Statistical Learning with Applications in R (ISLR), 2nd edition](https://www.statlearning.com/) by James, Witten, Hastie, Tibshirani
 - `book` [The Hundred Page Machine Learning book](http://themlbook.com/wiki/doku.php)
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
@@ -97,6 +96,7 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 ### 5. Deep Learning
 #### 5.1 General DL
 - `course` [Coursera - deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and its associated [github repo](https://github.com/ageron/handson-ml2) (the first ~200 pages are about general ML so this book could go under that section, but it's probably better suited for someone looking to learn about DL)
 - `course` [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - `site` [Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59180&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
@@ -131,23 +131,26 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `course` [Hugging Face course](https://huggingface.co/course/chapter1)
 - `book` [Natural Language Processing with Python](https://www.nltk.org/book/) by Bird, Klein and Loper
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
-- `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
-- `article` [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
 - `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
-- `article` [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar
-- `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 - `book` [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) by
 
-#### 6.2 (A few) seminal papers
-- `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
+#### 6.2 Embeddings
+- `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
+- `article` [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
 - `paper` word2vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et al.
 - `paper` GloVe: [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) by Pennington et al. and [Stanford webiste for GloVe](https://nlp.stanford.edu/projects/glove/)
-- `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al. 
-- `paper` transformers [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al, 2017
+- `paper` fastText: [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) by Joulin et al.
 - `paper` [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) by Cer et al., 2018
 
 #### 6.3 Topic modeling
- - `tool` [Anchored CorEx: Hierarchical Topic Modeling with Minimal Domain Knowledge](https://github.com/gregversteeg/corex_topic)
+- `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
+ - `paper` Anchored CorEx [Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge](https://arxiv.org/pdf/1611.10277.pdf) by Gallagher et al., 2017 and [github](https://github.com/gregversteeg/corex_topic)
+ - `blog post` - `StitchFix` - [Introducing our Hybrid lda2vec Algorithm](https://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/#topic=38&lambda=1&term=) by Chris Moody
+
+ #### 6.4 Transformers
+ - `paper` transformers [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al, 2017
+ - `article` [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar
+- `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 
 ### 7. Experimentation
 #### 7.1 AB testing
@@ -188,19 +191,24 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 #### 10.1 Structuring projects
 - `article` [Structuring Your Project: The Hitchhiker's Guide to Python](https://python-docs.readthedocs.io/en/latest/writing/structure.html)
 - `github` [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
+
+
+#### 10.2 Code refactoring workflow
+- `article` [The importance of structure, coding style, and refactoring in notebooks](http://blog.dominodatalab.com/the-importance-of-structure-coding-style-and-refactoring-in-notebooks)
 - `tutorial` [Production Data Science](https://github.com/FilippoBovo/production-data-science)
 
-#### 10.2 Unit testing
+#### 10.3 Unit testing
 - `article` [Effective Python Testing With Pytest
 ](https://realpython.com/pytest-python-testing/) Real Python
 - `article` [Becoming a Better Data Scientist: Testing with pytest](https://changhsinlee.com/pytest-intro/) by Chang Hsin Lee
 - `article` [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
 
-#### 10.3 Creating PyPI packages
+#### 10.4 Creating PyPI packages
 - `tutorial` [PyPA Packaging Python projects tutorial](https://packaging.python.org/tutorials/packaging-projects/#python-requires)
 - `e-book` [Python Packages e-book](https://py-pkgs.org/)
 - `e-book` [The Joy of Packaging](https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html)
 - [poetry](https://python-poetry.org/)
+- `article` [How to Build Your First Python Package](https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9)
 
 
 ### 11. Helpful other tools and packages
@@ -249,6 +257,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
 ### 16. Ethics
+- `github repo` [EthicalML Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ### 17. Other resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
@@ -261,7 +270,11 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
 - `article` [Finding Answers to your Career Questions](https://hookedondata.org/career-resources/)
 - `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
+- `blog post` [Senior engineer and then what?](http://www.juyang.co/senior-engineer-and-then-what/) by Ju Yang
+- `Quora` [As a data scientist, what career advice changed your life?](https://www.quora.com/As-a-data-scientist-what-career-advice-changed-your-life)
 
+### Defining data science
+- `reddit` [Difference between DS and MLE](https://www.reddit.com/r/datascience/comments/i48b5q/for_those_that_work_for_a_team_that_has_both_data/)
 
 ### Becoming a data scientist
 - [Open-Source Data Science Masters](https://github.com/datasciencemasters/go)

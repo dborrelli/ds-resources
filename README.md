@@ -16,6 +16,8 @@ Non-exhaustive list of additional topics to add:
 ### 1. Foundational
 #### 1.1 Python
 - `course` [Coursera - Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- `course` [codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- `ebook` [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
 - `book` [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 - `book` [Python for Everybody](https://www.py4e.com/book.php)
 - `book` [Learn Python the Hard Way](https://learnpythonthehardway.org/) maybe not my favorite resource, but was still useful
@@ -37,9 +39,14 @@ Non-exhaustive list of additional topics to add:
 - [Mode SQL tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
 
 #### 1.4 Computer Science & algorithms
+- `course` - `MIT OCW` - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
+- `ebook` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- `course` [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - `course` [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms#courses)
-- `book` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [HackerRank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- `github repo` [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#online-courses)
+- `book` [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) by Cormen, Leiserson, Rivest and Stein
+
 
 
 ### 2. General ML
@@ -241,8 +248,12 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 #### 13.2 Healthcare
 - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
-### 14. Ethics
+### 14. Additional topics
+### 14.1 Ethics
 - `github repo` [EthicalML Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
+
+### 14.2 Bias and explanability
+- `package` [Fairlearn](https://github.com/fairlearn/fairlearn)
 
 ### 15. Other learning resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team

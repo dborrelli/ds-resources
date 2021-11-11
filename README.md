@@ -38,11 +38,12 @@ Non-exhaustive list of additional topics to add:
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [Mode SQL tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
 
-#### 1.4 Computer Science & algorithms
+#### 1.4 Computer Science, data structures and algorithms
 - `course` - `MIT OCW` - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 - `ebook` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - `course` [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - `course` [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms#courses)
+- `course` - `MIT OCW` - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 - [HackerRank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - `github repo` [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#online-courses)
 - `book` [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) by Cormen, Leiserson, Rivest and Stein
@@ -60,11 +61,14 @@ Non-exhaustive list of additional topics to add:
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
+- [ArXiv Sanity Preserver](http://www.arxiv-sanity.com/)
 
 #### 2.2 University ML courses
 - `course` - `Harvard` [CS 109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 - `course` - `Cornell` CS 4780 Machine Learning [lecture notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) and [lecture youtube videos](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - `course` - `MIT` [Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+- `course` - `Wisconsin` [Machine Learning](https://sebastianraschka.com/teaching/stat479-fs2019/) Sebastian Raschka
+
 
 #### 2.3 Dimensionality reduction
 - `paper` [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/pdf/1802.03426.pdf) by McInnes et al.
@@ -129,6 +133,9 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 #### 5.6 Reinforcement Learning
 - `course` [Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning#courses)
 - `book` [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto
+
+#### 5.7 Graph Neural Networks
+- `article` [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 ### 6. NLP
 #### 6.1 NLP overview
@@ -269,6 +276,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
 #### 16.2 Newsletters
 - [Data Science Weekly](https://www.datascienceweekly.org/)
+- [Papers With Code Newsletter](https://paperswithcode.com/newsletter)
 
 #### 16.3 Podcasts
 - [Data Skeptic](https://dataskeptic.com/)
@@ -281,6 +289,8 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
 - `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
 - `Quora` [As a data scientist, what career advice changed your life?](https://www.quora.com/As-a-data-scientist-what-career-advice-changed-your-life)
+- `blog post` [A Framework for Career Decisions](https://www.conordewey.com/blog/career-decisions/) by Conor Dewey
+- [ApplyingML - Mentor interviews](https://applyingml.com/mentors/) by Eugene Yan
 
 ### Defining data science
 - `reddit` [Difference between DS and MLE](https://www.reddit.com/r/datascience/comments/i48b5q/for_those_that_work_for_a_team_that_has_both_data/)
@@ -305,6 +315,10 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` - `Coursera` [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8)
 - `article` - `Coursera` [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - `article` - `AirBnB` [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
+
+### Data-driven culture
+- `blog` [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) by Erik Bernhardsson
+- `blog` - `StitchFix` [Let Curiosity Drive: Fostering Innovation in Data Science](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/)
 
 ### Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen

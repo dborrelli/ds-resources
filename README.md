@@ -35,18 +35,20 @@ Non-exhaustive list of additional topics to add:
 - `book` [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 #### 1.3 SQL
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [Mode SQL tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 #### 1.4 Computer Science, data structures and algorithms
 - `course` - `MIT OCW` - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
-- `ebook` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- `ebook` [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html)
 - `course` [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - `course` [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms#courses)
 - `course` - `MIT OCW` - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 - [HackerRank 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - `github repo` [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms#online-courses)
 - `book` [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) by Cormen, Leiserson, Rivest and Stein
+- `article` [Learn X in Y minutes: Bash](https://learnxinyminutes.com/docs/bash/)
+- `article` [Bash scripting cheatsheet](https://devhints.io/bash)
 
 
 
@@ -79,10 +81,12 @@ Non-exhaustive list of additional topics to add:
 
 #### 2.4 Clustering
 - `blog` [Visualizing DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by Naftali Harris
+- `API documentation` [How HDBSCAN Works](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html)
+- `paper` [Accelerated Hierarchical Density Clustering](https://arxiv.org/pdf/1705.07321.pdf) by McInnes and Healy, 2017
+- `blog` [Understanding HDBSCAN and Density-Based Clustering](https://pberba.github.io/stats/2020/01/17/hdbscan/) by Pepe Berba
 - `stackoverflow` [How to select a clustering method? How to validate a cluster solution?](https://stats.stackexchange.com/a/195481)
 - `stackoverflow` [Evaluation measures of goodness or validity of clustering](https://stats.stackexchange.com/a/358937)
 - `paper` [What are the true clusters?](https://arxiv.org/abs/1502.02555) by Christian Henning
-- `paper` [Accelerated Hierarchical Density Clustering](https://arxiv.org/pdf/1705.07321.pdf) by McInnes and Healy, 2017
 - `paper` [Density-Based Clustering Validation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.96) by Moulavi et al, 2014
 
 #### 2.5 Curse of dimensionality
@@ -159,6 +163,8 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 #### 6.3 Topic modeling
 - `paper` LDA: [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  by Blei et al.
  - `paper` Anchored CorEx [Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge](https://arxiv.org/pdf/1611.10277.pdf) by Gallagher et al., 2017 and [github](https://github.com/gregversteeg/corex_topic)
+ - `github` [Top2Vec](https://github.com/ddangelov/Top2Vec) and `paper` [Top2Vec: Distributed Representations of Topics](https://arxiv.org/pdf/2008.09470.pdf) by Dimo Angelov
+ - `github` [BERTopic](https://github.com/MaartenGr/BERTopic) and `article` [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6) by Maarten Grootendorst
  - `blog post` - `StitchFix` - [Introducing our Hybrid lda2vec Algorithm](https://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec/#topic=38&lambda=1&term=) by Chris Moody
 
  #### 6.4 Transformers
@@ -205,6 +211,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 #### 10.1 Structuring projects
 - `article` [Structuring Your Project: The Hitchhiker's Guide to Python](https://python-docs.readthedocs.io/en/latest/writing/structure.html)
 - `github` [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
+- `blog post` [How to Set Up a Python Project For Automation and Collaboration](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/) by Eugene Yan
 
 
 #### 10.2 Code refactoring workflow
@@ -293,6 +300,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - [ApplyingML - Mentor interviews](https://applyingml.com/mentors/) by Eugene Yan
 
 ### Defining data science
+- `blog post` [Applied / Research Scientist, ML Engineer: What’s the Difference?](https://eugeneyan.com/writing/data-science-roles/) by Eugene Yan
 - `reddit` [Difference between DS and MLE](https://www.reddit.com/r/datascience/comments/i48b5q/for_those_that_work_for_a_team_that_has_both_data/)
 
 ### Becoming a data scientist
@@ -315,6 +323,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` - `Coursera` [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8)
 - `article` - `Coursera` [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae)
 - `article` - `AirBnB` [At Airbnb, Data Science Belongs Everywhere](https://medium.com/airbnb-engineering/at-airbnb-data-science-belongs-everywhere-917250c6beba)
+- `article` [Embedding Data Science In Cross-Functional Teams](https://medium.com/@Infinite_Monkey/embedding-data-science-in-cross-functional-teams-7bfce9283ad2)
 
 ### Data-driven culture
 - `blog` [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) by Erik Bernhardsson

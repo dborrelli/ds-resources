@@ -60,6 +60,8 @@ Non-exhaustive list of additional topics to add:
 - `book` [The Hundred Page Machine Learning book](http://themlbook.com/wiki/doku.php)
 - `book` [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - `book` [Mining of Massive Datasets](http://www.mmds.org/) and `course` [edX/Stanford - Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
+- `article series` [Machine Learning Mastery](https://machinelearningmastery.com/start-here/#nlp)
+- `article` [How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/) on Machine Learning Mastery
 - `book` (advanced material) [Probabilistic Machine Learning: An Introduction by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 - `book` (advanced material) [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Papers With Code](https://paperswithcode.com/)
@@ -94,6 +96,7 @@ Non-exhaustive list of additional topics to add:
 in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarwal et al., 2001
 - `blog` [Escaping the Curse of Dimensionality](https://www.freecodecamp.org/news/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335/) by Peter Gleeson (FreeCodeCamp)
 
+
 #### 2.6 Data issues
 - `article` [Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
 
@@ -114,6 +117,7 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `book` [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and its associated [github repo](https://github.com/ageron/handson-ml2) (the first ~200 pages are about general ML so this book could go under that section, but it's probably better suited for someone looking to learn about DL)
 - `course` [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - `site` [Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59180&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- `blog post` [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Kaparthy
 
 #### 5.2 University DL courses
 - `github repo` [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) giant list of university DL courses
@@ -151,6 +155,7 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `course` [Michigan NLP course videos](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw) and [github](https://github.com/deskool/nlp-class)
 - `article` [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
 - `book` [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) by
+- `article` [How to get started in NLP](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
 
 #### 6.2 Embeddings
 - `article` [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc)
@@ -173,7 +178,7 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `article` [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar
 
 ### 7. Experimentation
-#### 7.1 AB testing
+#### 7.1 A/B testing
 - `book` [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) by Kohavi, et al.
 - `course` [Microsoft Experimentation Platform](https://exp-platform.com/2017abtestingtutorial/)
 - [Evan Miller's A/B test tools](https://www.evanmiller.org/ab-testing/)
@@ -183,18 +188,30 @@ in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf) by Aggarw
 - `article` [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 - `article` [A/B Testing: 29 Guidelines for Online Experiments (Plus a Checklist)](https://www.alexbirkett.com/ab-testing/#27)
 - `course` [Udacity - A/B testing by Google](https://www.udacity.com/course/ab-testing--ud257)
-- `article` [Evan Miller - Simple Sequential A/B testing](https://www.evanmiller.org/sequential-ab-testing.html)
-- `article` [David Robinson - Understanding Bayesian A/B testing](http://varianceexplained.org/r/bayesian_ab_baseball/)
+- `article` [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html) by Evan Miller
+- `article` [Simple Sequential A/B testing](https://www.evanmiller.org/sequential-ab-testing.html) by Evan Miller
 - `paper` [Overlapping Experiment Infrastructure:
 More, Better, Faster Experimentation](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36500.pdf) by Tang et al, 2010
+- `blog post` [A/B Testing Tutorial](https://cxl.com/blog/ab-testing-guide/)
+- `paper` [Controlled experiments on the web: survey and practical guide](https://link.springer.com/article/10.1007/s10618-008-0114-1) by Ron Kohavi et al
+- `presentation` [Online Controlled Experiments:
+Lessons from Running A/B/n Tests for 12 years](https://exp-platform.com/Documents/2015-08OnlineControlledExperimentsKDDKeynoteNR.pdf) by Ron Kohavi
+- `articles` [Microsoft's Experimentation Platform](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
 
-#### 7.2 Multi-Armed Bandits (MAB)
+#### 7.2 Bayesian A/B testing
+- `article` [Understanding Bayesian A/B testing](http://varianceexplained.org/r/bayesian_ab_baseball/) by David Robinson
+- `article` [Is Bayesian A/B Testing Immune to Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/) by David Robinson
+- `article` [Agile A/B testing with Bayesian Statistics and Python](https://web.archive.org/web/20150419163005/http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html) by Chris Stucchio
+- `article` [The Power of Bayesian A/B Testing](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5)
+
+#### 7.3 Multi-Armed Bandits (MAB)
 - `paper` [Best arm identification in multi-armed bandits with delayed feedback](https://arxiv.org/pdf/1803.10937.pdf)
 - `paper` [Generalized Thompson Sampling for
 Contextual Bandits](https://arxiv.org/pdf/1310.7163.pdf)
 - `paper` [Analysis of Thompson Sampling for the Multi-armed Bandit Problem](http://proceedings.mlr.press/v23/agrawal12/agrawal12.pdf)
 - `paper` [A Contextual-Bandit Approach to
 Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
+- `article` [A/B testing — Is there a better way? An exploration of multi-armed bandits](https://medium.com/towards-data-science/a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d)
 
 
 
@@ -273,6 +290,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
 - `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
 - `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- `blog` [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html) by Chip Huyen
 
 ### 16. Industry resources and trends
 #### 16.1 Company tech blogs
@@ -294,7 +312,6 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 ### Career advice
 - `book` [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) by Emily Robinson and Jacqueline Nolis
 - `article` [80000 hours: Data Science career review](https://80000hours.org/career-reviews/data-science/)
-- `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
 - `Quora` [As a data scientist, what career advice changed your life?](https://www.quora.com/As-a-data-scientist-what-career-advice-changed-your-life)
 - `blog post` [A Framework for Career Decisions](https://www.conordewey.com/blog/career-decisions/) by Conor Dewey
 - [ApplyingML - Mentor interviews](https://applyingml.com/mentors/) by Eugene Yan
@@ -302,6 +319,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 ### Defining data science
 - `blog post` [Applied / Research Scientist, ML Engineer: What’s the Difference?](https://eugeneyan.com/writing/data-science-roles/) by Eugene Yan
 - `reddit` [Difference between DS and MLE](https://www.reddit.com/r/datascience/comments/i48b5q/for_those_that_work_for_a_team_that_has_both_data/)
+- `article` [Machine Learning Engineer vs Data Scientist (Is Data Science Over?)](https://towardsdatascience.com/mlevsds-3c89425baabb)
 
 ### Becoming a data scientist
 - [Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
@@ -331,6 +349,12 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
 ### Interviewing
 - `book` [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen
+- `article` [Data science career advice to my younger self](https://towardsdatascience.com/data-science-career-advice-to-my-younger-self-4c37fac65184) by Schaun Wheeler
+- `blog post` [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#size) by Haseeb Qureshi
+- `article` [Mastering the Data Science Interview Loop](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7) by Andrei Lyskov
+- `blog post` [Reverse Interviewing Your Future Manager and Team](https://blog.pragmaticengineer.com/reverse-interviewing/) by Gergely Orosz
+- `blog post` [Red Flags to Look Out for When Joining a Data Team](https://eugeneyan.com/writing/red-flags/) by Eugene Yan
+- `blog post` [Red Flags in Data Science Interviews](https://hookedondata.org/red-flags-in-data-science-interviews/) by Emily Robinson
 
 ## Non-technical resources
 ### Agile & Project management
@@ -341,6 +365,8 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 ### Product
 - `article` [Jobs To Be Done Framework](https://medium.com/make-us-proud/jobs-to-be-done-framework-748c761797a8)
 - `article series` - `Sequoia` [Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
+- `article` Sequoia Data Science Team [Measuring Product Health](https://articles.sequoiacap.com/measuring-product-health)
+- `article` Sequoia Data Science Team [Retention](https://articles.sequoiacap.com/retention)
 
 ### Business
 - `article` [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/blog/10-reads-for-data-scientists-getting-started-with-business-models/) by Conor Dewey

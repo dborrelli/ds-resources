@@ -5,7 +5,6 @@ This list is far from complete, but I'll try to continue to add to it. Hopefully
 
 Non-exhaustive list of additional topics to add:
  - Spark
- - Git/GitHub
  - time series forecasting
  - docker
 
@@ -215,33 +214,31 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 
 
 
-### 8. Building web apps
-- [Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Ginberg
 
-### 9. AWS
-- `course` [Coursera - Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
-- `course` [Coursera - AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials#syllabus)
-- `course` [Coursera - Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
-- [AWS Ramp up guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
 
-### 10. Coding best practies
-#### 10.1 Structuring projects
+### 8. Coding best practices
+#### 8.1 GitHub
+- `course` [Coursera - Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
+- `ebook` [Pro Git](https://git-scm.com/book/en/v2)
+
+#### 8.2 Structuring projects
 - `article` [Structuring Your Project: The Hitchhiker's Guide to Python](https://python-docs.readthedocs.io/en/latest/writing/structure.html)
 - `github` [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
 - `blog post` [How to Set Up a Python Project For Automation and Collaboration](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/) by Eugene Yan
 
 
-#### 10.2 Code refactoring workflow
+#### 8.3 Code refactoring workflow
 - `article` [The importance of structure, coding style, and refactoring in notebooks](http://blog.dominodatalab.com/the-importance-of-structure-coding-style-and-refactoring-in-notebooks)
 - `tutorial` [Production Data Science](https://github.com/FilippoBovo/production-data-science)
+- `article` [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 
-#### 10.3 Unit testing
+#### 8.4 Unit testing
 - `article` [Effective Python Testing With Pytest
 ](https://realpython.com/pytest-python-testing/) Real Python
 - `article` [Becoming a Better Data Scientist: Testing with pytest](https://changhsinlee.com/pytest-intro/) by Chang Hsin Lee
 - `article` [Unit Testing for Data Scientists](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
 
-#### 10.4 Creating PyPI packages
+#### 8.5 Creating PyPI packages
 - `tutorial` [PyPA Packaging Python projects tutorial](https://packaging.python.org/tutorials/packaging-projects/#python-requires)
 - `e-book` [Python Packages e-book](https://py-pkgs.org/)
 - `e-book` [The Joy of Packaging](https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html)
@@ -249,61 +246,72 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `article` [How to Build Your First Python Package](https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9)
 
 
-### 11. Helpful other tools and packages
-#### 11.1 Hyperopt
+### 9. Helpful tools and packages
+
+#### 9.1 AWS
+- `course` [Coursera - Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning)
+- `course` [Coursera - AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials#syllabus)
+- `course` [Coursera - Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
+- [AWS Ramp up guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
+
+#### 9.2 Flask
+- [Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Ginberg
+
+
+#### 9.3 Hyperopt
 - `article` [Parameter Tuning with Hyperopt](https://medium.com/district-data-labs/parameter-tuning-with-hyperopt-faa86acdfdce) by District Data Labs
 - `article` [On Using Hyperopt: Advanced Machine Learning](https://blog.goodaudience.com/on-using-hyperopt-advanced-machine-learning-a2dde2ccece7) by Tanay Agrawal
 - `article` [An Introductory Example of Bayesian Optimization in Python with Hyperopt](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0) by Will Koehrsen
 
 
-### 12. Datasets
-#### 12.1 General
+### 10. Datasets
+#### 10.1 General
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Google Dataset search](https://datasetsearch.research.google.com/)
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
-#### 12.2 NLP
+#### 10.2 NLP
 - [huggingface datasets](https://github.com/huggingface/datasets)
 - [nlp-datasets github repo](https://github.com/niderhoff/nlp-datasets)
 
-#### 12.3 Time series
+#### 10.3 Time series
 - [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 - [Time Series Classification Repository](http://www.timeseriesclassification.com/index.php)
 
 
-### 13. Domain applications
-#### 13.1 Rewewable Energy
+### 11. Domain applications
+#### 11.1 Rewewable Energy
 - `paper` [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [ClimateChage AI](https://www.climatechange.ai/)
 
-#### 13.2 Healthcare
+#### 11.2 Healthcare
 - `course` [MIT OCW Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) and [lecture videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
-### 14. Additional topics
-### 14.1 Ethics
+### 12. Additional topics
+#### 12.1 Ethics
 - `github repo` [EthicalML Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
 
-### 14.2 Bias and explanability
+#### 12.2 Bias and explanability
 - `package` [Fairlearn](https://github.com/fairlearn/fairlearn)
 
-### 15. Other learning resource lists
+### 13. Other learning resource lists
 - `article` [Data science learning resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) by Microsoft Data Science team
 - `blog` [End-to-End Machine Learning](https://e2eml.school/blog.html#000) by Brandon Rohrer (some good free resources, some paid)
 - `github repo` [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - `blog` [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html) by Chip Huyen
 
-### 16. Industry resources and trends
-#### 16.1 Company tech blogs
+### 14. Industry resources and trends
+#### 14.1 Company tech blogs
 - [AirBnb]()
 - [Coursera]()
 - [Stitch Fix]()
 - `Square` [Product Analytics at Square](https://developer.squareup.com/blog/product-analytics-at-square/)
 
-#### 16.2 Newsletters
+#### 14.2 Newsletters
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 - [Papers With Code Newsletter](https://paperswithcode.com/newsletter)
 
-#### 16.3 Podcasts
+#### 14.3 Podcasts
 - [Data Skeptic](https://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Talking Machines](http://www.thetalkingmachines.com/)
@@ -315,6 +323,7 @@ Personalized News Article Recommendation](https://arxiv.org/pdf/1003.0146.pdf)
 - `Quora` [As a data scientist, what career advice changed your life?](https://www.quora.com/As-a-data-scientist-what-career-advice-changed-your-life)
 - `blog post` [A Framework for Career Decisions](https://www.conordewey.com/blog/career-decisions/) by Conor Dewey
 - [ApplyingML - Mentor interviews](https://applyingml.com/mentors/) by Eugene Yan
+- [talks by Angela Bassa](https://www.angelabassa.com/point-of-view)
 
 ### Defining data science
 - `blog post` [Applied / Research Scientist, ML Engineer: What’s the Difference?](https://eugeneyan.com/writing/data-science-roles/) by Eugene Yan
